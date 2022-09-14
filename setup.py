@@ -6,7 +6,7 @@ except ImportError:
     from distutils.core import setup
 
 setup(
-    name='django-useraudit',
+    name='django-useraudit-raywebdev',
     version='1.8.0',
     description='Django user audit utilities like logging user log in, disabling access when password expires or user is inactive',
     long_description='Django user audit utilities like logging user log in, disabling access when password expires or user is inactive',
